@@ -10,7 +10,7 @@ Multi-Factor Authentication (MFA) adds an extra layer of security by requiring u
 
 ### **Technologies Used**  
 - Microsoft Entra ID
-- 
+  
 ### **Setup Instructions**  
 1️⃣ Sign in to the **Azure Portal** ([portal.azure.com](https://portal.azure.com))  
 2️⃣ Navigate to **Microsoft Entra ID** → **Security** → **MFA**  
@@ -18,7 +18,7 @@ Multi-Factor Authentication (MFA) adds an extra layer of security by requiring u
  4 Test authentication with different user accounts  
 
 ### **Demo Video**  
-📺 Watch the step-by-step guide on **[https://youtu.be/rV6QTOWQDIo](#)** 
+📺 Watch the step-by-step guide on https://youtu.be/uFklcM8rLzg
 
 ### **Contributors**  
 👤 **Abinet Degefa** – Cloud Security Enthusiast 🚀  
